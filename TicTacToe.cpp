@@ -1,17 +1,3 @@
-/******************************************************************************
-
-
-NIESAMOWITY PROJEKT PRZEDSTAWIAJĄCY PRACE NA TABLICACH DWUWYMIAROWYCH.
-POTEM TO BĘDZIE KÓŁKO I KRZYŻYK
-POZDRAWIAM MEMEK 10.05.19
-
-DATA: 14.05.19 21.:23
-PRACE NAD PROGRAMEM "KÓŁKO I KRZYŻYK" ZOSTAŁY UKOŃCZONE
-POZOSTAJE ZADZWONIC DO NASA
-MOŻE BĘDE ULEPSZAŁ
-POZDRAWIAM
-
-*******************************************************************************/
 
 #include <iostream>
 #include <cstdlib>
