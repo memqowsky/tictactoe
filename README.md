@@ -4,14 +4,9 @@ Gra TicTacToe zrealizowana w C++. Posiada prosty "interfejs" który umożliwia n
 
 Sterowanie za pomocą klawiatury numerycznej, odpowiednio:
 
-          8
-       
-          ᐱ
-          |
-   4   <- X ->   6
-          |
-          ᐯ
-          
-          2
+- góra: 8
+- prawo: 6
+- lewo: 4 
+- dół: 2
 
 Zatwierdzamy klawiszem ENTER, wychodzimy z gry klawiszem ESC.
